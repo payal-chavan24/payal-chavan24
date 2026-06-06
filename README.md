@@ -66,9 +66,20 @@ A Spring Boot-based application for maintaining employee records and streamlinin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=payal-chavan24)
 
-## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=payal-chavan24\&layout=compact)
+## 💻 Most Used Technologies
+
+* Java
+* SQL
+* Spring Boot
+* Spring Security
+* JDBC
+* REST APIs
+* HTML
+* CSS
+* JavaScript
+* MySQL
+
 
 ## 🎯 Career Objective
 
